@@ -17,6 +17,7 @@ RUN  apt-get update && \
             php7.3-curl \
             php7.3-mysql \
             php7.3-mbstring \
+            php7.3-pgsql \
             php7.3-xml \
             php7.3-imagick \
             wget \
